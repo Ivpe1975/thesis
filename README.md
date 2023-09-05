@@ -8,3 +8,5 @@ Step 3: Train machamp through either the command and the bottom of machamp/macha
 Step 4: Same thing with the machamp_pred.job but run all the commands if not using cluster.
 
 Step 5: Use the evaluation notebook to your hearts' content
+
+You can read the resulting thesis in the pdf document in the root folder
